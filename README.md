@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thesunny-dev
 - 👀 I’m interested in WEB
-- 🌱 I’m currently learning python, javascript, sql, java(spring/eGov)
+- 🌱 I’m currently learning python, javascript, sql, java(jsp)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... "youngsunhan.kr@gmail.com"
 

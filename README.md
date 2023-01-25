@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @thesunny-dev
-- 👀 I’m interested in WEB
+- 👋 Hi, I’m @sunnydaysinseoul
+- 👀 I’m interested in WEB development.
 - 🌱 I’m currently learning javascript / node js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... "youngsunhan.kr@gmail.com"
+<!-- - 💞️ I’m looking to collaborate on ... -->
+- 📫 How to reach me ... : "youngsunhan.kr@gmail.com"
 
 <!---
 thesunny-dev/thesunny-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
